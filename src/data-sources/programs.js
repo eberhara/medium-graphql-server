@@ -7,7 +7,7 @@ export default class ProgramsDatasource extends RESTDataSource {
   }
 
   getProgramById(programId) {
-    //return this.get(`/v/xhr/videos/${videoId}/info.json`)
+    //return this.get(`/programs/${programId}`)
     return {
       id: programId,
       title: 'My awesome program',
