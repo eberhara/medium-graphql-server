@@ -1,7 +1,7 @@
 # medium-graphql-server
 GraphQL server example
 
-##Running
+## Running
 ```bash
 nvm use
 npm start
