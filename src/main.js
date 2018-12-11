@@ -1,4 +1,4 @@
-import { ApolloServer, gql } from 'apollo-server'
+import { ApolloServer } from 'apollo-server'
 
 import context from './setup/context'
 import dataSources from './setup/data-sources'
